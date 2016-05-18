@@ -3,6 +3,10 @@
 
 ** Keyboard symbols in English Chinese Japanese Spanish
 
+ refer to:  [[https://github.com/weih/symbolinenglish][weih/symbolinenglish: How to say ~!@#$%^*;"... in English, Chinese, Japanese and
+Spanish?]]
+
+
 | Symbol | English                                | 中文           | 日本語                                             | Spanish                                    |   |
 |--------+----------------------------------------+----------------+----------------------------------------------------+--------------------------------------------+---|
 | ~      | tilde                                  | 波浪号         | チルダ、波ダッシュ                                 | virgulilla de la eñe, tilde                |   |
