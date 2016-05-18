@@ -1,4 +1,6 @@
 # English-Paradise
 
-[google 10000 english words](https://github.com/first20hours/google-10000-english)
-[symblin english](https://github.com/weih/symbolinenglish)
+## Words
+- [google English words 10000](/words/google-10000-english-usa.txt)
+- [google English words 20000](/words/20k.txt)
+- [English symbols](/words/symbol.org)
