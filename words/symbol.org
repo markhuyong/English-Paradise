@@ -1,0 +1,36 @@
+#+TITLE: Keyboard symbols in English Chinese Japanese Spanish
+
+
+** Keyboard symbols in English Chinese Japanese Spanish
+
+| Symbol | English                                | 中文           | 日本語                                             | Spanish                                    |   |
+|--------+----------------------------------------+----------------+----------------------------------------------------+--------------------------------------------+---|
+| ~      | tilde                                  | 波浪号         | チルダ、波ダッシュ                                 | virgulilla de la eñe, tilde                |   |
+| `      | grave accent, backquote, backtick      | 反引号         | バッククォート、グレイヴ・アクセント               | acento grave                               |   |
+| !      | exclamation mark, bang                 | 感叹号         | 感嘆符、ビックリマーク、エクスクラメーションマーク | signo de exclamación                       |   |
+| @      | at                                     | at             | アットマーク                                       | arroba                                     |   |
+| #      | hash, hash tag, pound, octothorpe      | 井号           | ハッシュマーク、ハッシュタグ                       | signo de número, gato, almohadilla         |   |
+| $      | dollar sign                            | 美元符号       | ドル                                               | signo de dólar                             |   |
+| %      | percent, mod                           | 百分号         | パーセント                                         | porcentaje                                 |   |
+| \^     | caret, hat                             | 脱字符         | ハット                                             | signo de intercalación, acento circunflejo |   |
+| &      | ampersand, and                         | and            | アンド、アンパサンド                               | ampersand, y                               |   |
+| *      | star, wildcard, asterisk               | 星号           | スター、アスタリスク                               | asterisco                                  |   |
+| ( )    | parentheses, brackets                  | 括号           | 丸括弧、括弧                                       | paréntesis                                 |   |
+| { }    | curly brackets, braces                 | 大括号，花括号 | 中括弧                                             | llaves                                     |   |
+| [ ]    | square brackets                        | 中括号         | 角括弧                                             | corchetes                                  |   |
+| -      | dash, hyphen, minus                    | 连字符         | ハイフン、マイナス                                 | guíon, menos                               |   |
+| \_     | underscore                             | 下划线         | アンダースコア                                     | guíon bajo                                 |   |
+| =      | equal                                  | 等于号         | イコール                                           | igual                                      |   |
+| +      | plus, addition                         | 加号           | プラス                                             | más                                        |   |
+| \vert  | pipe, vertical bar                     | 管道符，竖杠   | パイプ                                             | barra vertical, pipe                       |   |
+| /      | slash, over, forward slash             | 正斜杠         | スラッシュ                                         | diagonal, barra                            |   |
+| \      | backslash                              | 反斜杠         | バックスラッシュ                                   | diagonal inversa, contrabarra              |   |
+| :      | colon                                  | 冒号           | コロン                                             | dos puntos                                 |   |
+| ;      | semicolon                              | 分号           | セミコロン                                         | punto y coma                               |   |
+| "      | quotation mark, quotes                 | 双引号         | ダブルクォート、ダブルクォーテーション、引用符     | comillas dobles                            |   |
+| '      | single quotes, apostrophe              | 单引号         | シングルクォート                                   | comilla simple                             |   |
+| .      | period, dot, full stop                 | 点             | ピリオド、ドット                                   | punto                                      |   |
+| ,      | comma                                  | 逗号           | カンマ、コンマ                                     | coma                                       |   |
+| <      | angle bracket, less than               | 尖括号         | 不等号(より小)、始め山括弧、左アングルブラケット   | menor que                                  |   |
+| >      | angle bracket, more than, greater than | 尖括号         | 不等号(より大)、終わり山括弧、右アングルブラケット | mayor que                                  |   |
+| ?      | question mark                          | 问号           | クエスチョンマーク、はてなマーク、疑問符           | signo de interrogación                     |   |
