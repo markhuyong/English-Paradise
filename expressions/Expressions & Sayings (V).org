@@ -1,0 +1,376 @@
+*/Expressions & Sayings/*
+
+*~ V ~*
+
+--------------
+
+#+BEGIN_HTML
+  <div align="center">
+#+END_HTML
+
+| *Vaulting ambition* ** - /extreme ambition/\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|  A quotation from Macbeth's soliloquy at the beginning of I, 7: 'I have no spur/To prick the side of my intent, but only/Vaulting ambition, which o'erleaps itself/And falls on the other'. The metaphor is from horse-riding: ambition is envisaged either as a horse that jumps too high over an obstacle and falls down on the other side of it, or as a rider who leaps too energetically into the saddle and falls off the other side of the horse. Thus the original sense was of coming to grief by being over-ambitious.                                                                                                                                                                                                                                                                      |
+| *Vested interest*\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|  /Vested/ originally meant dressed, particularly of priests in their /vestments/. Special clothing or uniforms are worn to show that you have a right to be what you claim to be, that you have been /invested/ in a certain rank. By the 18th century /vested/ had come to mean 'established', definitely assigned to something or someone. By the 19th century /vested interest/ had become a legal term meaning a right to property, and from there it was transferred to mean a personal involvement or stake in something.                                                                                                                                                                                                                                                                       |
+| *Vexed question*\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|  This is a literal translation of a Latin term /vexata quaestio/, where the /vexed/ part has the meaning 'troublesome, difficult', a /vexed question/ being something that needs debate, a [[http://users.tinyonline.co.uk/gswithenbank/sayingsm.htm#Moot%20point,%20a][moot point]]. It has been in use in this sense since the 17th century, but now modern use tends to be influenced by the more usual sense of vexed as irritated or angry.                                                                                                                                                                                                                                                                                                                                                      |
+| *Vicar of Bray* - /time-server; one who makes one's opinions or behaviour fit those of current fashion or of one's superiors/\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|  The title of a well-known anonymous song (c. 1720) about a parson who boasts that he has accommodated himself to the very different religious emphases of the reigns of Charles II, James II, William and Mary, Anne and now George I, and 'That whatsoever king shall reign/I'll still be Vicar of Bray, sir'. This is based on an actual 16th century Vicar of Bray, in Berkshire, named as Symon Symonds or Aleyn, who managed to retain the living during the reigns of Henry VIII, Edward VI, Mary I and Elizabeth I, being twice a Roman Catholic and twice a Protestant as the centre of power changed. When asked if he were not a turncoat he is quoted as replying 'I always kept my principle, which is this, to live and die the Vicar of Bray' (Fuller, /Worthies of England/, 1662).   |
+| *Vicious circle* ** - /situation in which a difficulty leads to a further difficulty that leads back to the original one/\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|  Not /vicious/ in the sense of 'depraved or spiteful' but in its rather archaic sense of 'flawed, spoiled by some fault'. The expression was originally a technical term in logic for a fallacious mode of reasoning by which a proposition that has been employed to establish a conclusion is then proved by that conclusion - in simple language, a circular argument.                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| *Viper in one's bosom*\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|  See [[http://users.tinyonline.co.uk/gswithenbank/sayingss.htm#Snake%20in%20one's%20bosom][Snake in one's bosom]].                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| *Voice crying in the wilderness* - /person whose prophecies, warnings, opinions, etc. are ignored/\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|  An approximation to the claim of John the Baptist to be 'the voice of one crying in the wilderness, Make straight the way of the Lord' (/John/, 1: 23; also in the other three Gospels) in fulfilment of a prophecy in /Isaiah/, 40: 3. The Baptist was an important and fearless preacher who recognised Christ as the Messiah prophesied in the Old Testament.\\                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|  ...The modern meaning of the expression is a misrepresentation: John was not of course ignored. There has obviously been a popular presumption that a voice in the wilderness is bound to be unheard. This is to misunderstand the biblical meaning of 'wilderness', which is merely the countryside as opposed to the town and cultivated land. John lived and preached there because he was an ascetic, and his voice was actually heard by very many.                                                                                                                                                                                                                                                                                                                                             |
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div align="center">
+#+END_HTML
+
+| << [[http://users.tinyonline.co.uk/gswithenbank/sayingsu.htm][U]]   | [[http://users.tinyonline.co.uk/gswithenbank/sayindex.htm][Main Index]]   | [[http://users.tinyonline.co.uk/gswithenbank/sayingsw.htm][W]] >>   |
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+--------------
+
+[[http://users.tinyonline.co.uk/gswithenbank/welcome.htm][Home]] ~
+[[http://users.tinyonline.co.uk/gswithenbank/stories.htm][The Stories]]
+~ [[http://users.tinyonline.co.uk/gswithenbank/divert.htm][Diversions]]
+~ [[http://users.tinyonline.co.uk/gswithenbank/links.htm][Links]] ~
+[[http://users.tinyonline.co.uk/gswithenbank/contact.htm][Contact]]
+
+#+BEGIN_HTML
+  <div id="diigo-chrome-installed" style="display: none;">
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="diigolet-notice" class="diigolet notice"
+  style="display: none;">
+#+END_HTML
+
+#+BEGIN_HTML
+  <div>
+#+END_HTML
+
+* *
+Ok, done!
+
+<<close>>
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="diigolet-dlg-sticky" class="diigolet diigoletFN yellow"
+  style="position: absolute; left: 100px; top: 100px; display: none;">
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="diigolet-dlg-sticky-top" class="_dragHandle"
+  style="cursor: move;">
+#+END_HTML
+
+<<diigolet-dlg-sticky-close>><<diigolet-dlg-sticky-color>>
+
+#+BEGIN_HTML
+  <div id="diigolet-dlg-sticky-currentColor" title="change color">
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="diigolet-dlg-sticky-colorPicker">
+#+END_HTML
+
+**********
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+<<diigolet-dlg-sticky-addTab>>
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="diigolet-dlg-sticky-content" class="private">
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="diigolet-dlg-sticky-switcher">
+#+END_HTML
+
+**Private**Group
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div class="FN-content-wrapper private">
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="FN-content-footer">
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="editDone">
+#+END_HTML
+
+**<<FN-private-datetime>>
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="editing">
+#+END_HTML
+
+[[javascript:void(0)][Save]][[javascript:void(0)][Cancel]]
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div class="FN-content-wrapper group">
+#+END_HTML
+
+#+BEGIN_HTML
+  <div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="FN-group-content-nav">
+#+END_HTML
+
++Share to a new group**
+
+#+BEGIN_HTML
+  <div id="FN-group-menu">
+#+END_HTML
+
+-  
+
+   #+BEGIN_HTML
+     <div id="FN-group-share-new">
+   #+END_HTML
+
+   #+BEGIN_HTML
+     </div>
+   #+END_HTML
+
+   +Share to a new group
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="FN-post-form">
+#+END_HTML
+
+#+BEGIN_HTML
+  <div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div>
+#+END_HTML
+
+Post
+[[javascript:void(0)][Cancel]]
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="FN-group-content">
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="FN-group-content-container">
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="FN-group-content-postform">
+#+END_HTML
+
+#+BEGIN_HTML
+  <div class="post-action">
+#+END_HTML
+
+Post
+[[javascript:void(0)][Cancel]]
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="diigolet-csm" class="yellow"
+  style="position: absolute; display: none;">
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="diigolet-csm-research-mode">
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="diigolet-csm-highlight-wrapper" class="csm-btn">
+#+END_HTML
+
+[[javascript:void(0);][]]
+
+#+BEGIN_HTML
+  <div class="diigolet-csm-color small hidden">
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="diigolet-csm-highlightAndComment-wrapper" class="csm-btn">
+#+END_HTML
+
+[[javascript:void(0);][]]
+
+#+BEGIN_HTML
+  <div class="diigolet-csm-color small hidden">
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+[[javascript:void(0);][]]
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="diigo-image-clipper" style="position: absolute;">
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="diigo-image-menu">
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="diigo-logo">
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="diigo-save-and-tag" class="diigo-action"
+  title="Tag as a stand-alone item">
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="diigo-attach" class="diigo-action"
+  title="Attach it to the page URL">
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML

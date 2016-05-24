@@ -1,0 +1,187 @@
+* 奶爸英语之资料篇
+
+#+BEGIN_HTML
+  <div>
+#+END_HTML
+
+[[http://www.douban.com/people/gkmfzw/][[[./奶爸英语之资料篇_files/u2291096-2.jpg]]]]
+[[http://www.douban.com/people/gkmfzw/][色了目]] 2014-01-24 19:02:41
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="note_328259868_short" class="note" style="display:none;">
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="note_328259868_full">
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="link-report" class="note">
+#+END_HTML
+
+#+BEGIN_HTML
+  <div class="ll">
+#+END_HTML
+
+| [[./奶爸英语之资料篇_files/p23396177.jpg]]   |
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+本人长期收集整理“奶爸英语学习法”中所提到的资源材料。[[http://www.wumii.com/collection/items/p1lGu0Te][奶霸英语]]教学理论大致见于《把你的英语用起来》一书，但此书只是勉强说清了四个阶段学习的步骤，关键的学习材料除了零星提到几个播讲类资源和有声书，其余大量篇幅被另外一个作者占据，狂推了一些奇奇怪怪的资源，导致许多初学者看完依然一头雾水不知如何分阶段提升。\\
+本教主不辞辛劳，以《把你的英语用起来》为基础，参考奶爸提供的官方脑图，采集其散落在豆瓣各小组、日记、广播中的只言片语，甚至追踪到知乎等其他平台搜罗其言论，试图在有限的条件下拼出一幅完整的奶爸英语学习资源地图。鉴于奶爸时常会心血来潮频繁推出新资源，本文的时效性难以保证。\\
+\\
+----------------------------------------------------理论框架-----------------------------------------------------------\\
+网易博客“伸手党乐园”：[[http://blog.163.com/liuxiaoguang107]]@yeah/blog\\
+英语类问题答案集锦 系统化.pdf\\
+[[http://www.jianshu.com/p/8a462daa21a6][简单聊聊英文学习规划]]\\
+\\
+-----------------------------------------------视听材料分割线------------------------------------------------------\\
+赖世雄老师的《美语从头学》（音标，入门，初级，中级，高级，经典语法）\\
+American Pronunciation
+Workshop、[[http://www.uiowa.edu/~acadtech/phonetics/english/frameset.html][爱荷华大学的口腔剖面]]\\
+《[[http://www.tingclass.net/list-8155-1.html][American Accent
+Training]]》（《标准美语发音的13秘诀》）\\
+American Accent Course 美语发音视频 ＋ Mastering the American Accent
+掌握纯正美国英语【[[http://site.douban.com/195274/widget/notes/11672516/note/321189897/][听VOA还不如学这些]]】\\
+播讲类：[[http://www.eslpod.com/website/index_new.html][ESLPOD]]六本；Englishpod-365＆Cloze
+100期(成寒克漏字)；BEP（商务英语播客）\\
+Audiobook（查理和巧克力工厂、芒果街上的小屋......）\\
+Before Sunset（爱在日落余晖时）\\
+CNN Student News（透析五六十期）\\
+《新概念英语》（1985年BBC朗读版）［英］L.G.亚历山大著，外语教学与研究出版社1997年版。\\
+【参考文章：《[[http://www.douban.com/note/265380910/][如何正确的使用新概念提高自己的写作能力]]》】\\
+
+#+BEGIN_HTML
+  <div class="cc">
+#+END_HTML
+
+| [[./奶爸英语之资料篇_files/p23396169.jpg]]            |
+| #+BEGIN_HTML                                          |
+|   <div class="pl" style="text-align:center;">         |
+| #+END_HTML                                            |
+|                                                       |
+| 2014年9月，有道口语大师1.0版本上线（貌似已谢顶...）   |
+|                                                       |
+| #+BEGIN_HTML                                          |
+|   </div>                                              |
+| #+END_HTML                                            |
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+看美剧学英语“两万人计划”（2014-11-27）：初级[[http://dou.bz/3hITUr][Felicity]]、2011年艾美奖最佳迷你剧《肯尼迪》；进阶Lois
+& Clark；中级Gilmore Girls；高级波士顿法律和白宫风云。\\
+奶爸后来还是把教材计划改了（2014-12-5）：\\
+女生是[[http://dou.bz/1z3LOY][Felicity]]------Ally Mcbeal------Gilmore
+Girls；\\
+男生是The Apprentice------The Amazing Race------The
+Office------Mythbusters------BBC科教片和纪录片【男生的美剧初级选择的是[[http://note.youdao.com/share/?id=b1937fa642f95d7fc605fccae1ebf1e7&type=note][泰星来客]]；飞黄腾达[[http://dou.bz/1wZG0Q][S01E01]]、[[http://dou.bz/2x7VRt][S01E02]]笔记，这部真人秀真是超级实用，商业方面无所不包，堪称工作小百科，我觉得比老友记绝望主妇什么的都要实用太多了，教会你真正能听懂美帝日常和商场时候说的话。看完就一个感觉，有钱真他妈爽真他妈爽真他妈爽！】；\\
+高级期考虑使用 The West Wing, Boston Legal, Newsroom, 纸牌屋等。\\
+[[http://www.howcast.com/][Howcast]]【这个网站最适合中高级之后的同学提高口语，语速不快，正常语速偏慢，没有美剧中的各种癫狂剧情冲突，全篇自然正常，语音纯正，播讲类材料，知识小百科，涵盖多种话题，对词汇量帮助巨大，视频底下有脚本提示，大家研究下怎么下载下来分门别类的整理好吧】\\
+\\
+奶爸隔三差五发布资（fu）讯（li）的传送门：[[http://site.douban.com/195274/widget/miniblog/12008515/][奶爸的英语教室的广播]]、[[http://www.douban.com/people/Q598176297/statuses][恶魔的奶爸的广播]]\\
+\\
+-----------------------------------------------语法分割线-----------------------------------------------------\\
+旋元佑三部曲（文法俱乐部、读写快译通、修辞高峰会）\\
+《英语阅读参考手册》（叶永昌著）【和这本书功能写法类似的是《牛津英语用法指南》（Practical
+English Usage）】\\
+《英语常用词疑难用法手册》（陈用仪著）\\
+Longman English Grammar by L. G.
+Alexander（《朗文英语语法（附带练习册）》）【顺带说，亚历山大还有另外一本书，叫《朗文高级英语语法》（参考及练习）】\\
+Oxford Guide to English Grammar by John Eastwood\\
+A Practical English Grammar by AJ Thomson & AV Martinet\\
+Collins Cobuild English Grammar\\
+《剑桥中级英语语法（英语在用）》\\
+Betty Azar的朗文英语语法初中高\\
+\\
+-----------------------------------------------词汇分割线-----------------------------------------------------\\
+（ETP、柯林斯5星词频）\\
+英语词汇飞跃系列六本\\
+韦伯斯特的vocabulary builder（韦小绿）\\
+Word Power Made Easy（英语记词捷径------词源浅析与练习）\\
+英专生三本------\\
+1，Oxford Learner's Thesaurus牛津英语同义词学习词典\\
+2，Longman Activator朗文联想活用词典\\
+3，Longman Lexicon of Comtemporary English朗文多功能分类词典\\
+图解字典：牛津杜登图解字典、韦伯可视化词典\\
+常见的Collocation：《牛津学生英语搭配词典》\\
+\\
+-----------------------------------------------写作的进阶分割线-----------------------------------------------------\\
+1，Manhattan的GMAT语法部分：08 - The Sentence Correction Guide 4th
+edition，不管有没有GMAT考试需求，这本书都有一读的价值；\\
+2，朗文的Academic
+Writing系列，全书是从最简单的ABC开始教起，循序渐进到雅思写作8左右的水平；\\
+3，Virginia Evans的Successful
+Writing系列，全书难度比朗文的略难，但比朗文的更实用，应试性没那么强，在大部分ESL写作书籍中算最好；【源自胡老师推荐】\\
+4，高阶的ESL写作，幸好还有一本Academic Writing for Graduate
+Students（Essential Tasks and Skills） - A Course for Nonnative Speakers
+of English，看标题就知道了，给ESL学习者的研究生看的；\\
+5，[[http://www.youku.com/playlist_show/id_3139297.html][TTC]]的教程，Building
+Great Sentences\\
+\\
+-----------------------------------------------原版书分割线-----------------------------------------------------\\
+4K-6K档同学简易版读物：书虫，床头灯，黑猫。米国儿童科普读物Magic Tree
+House\\
+入门级：童话/Young Adult、商业成功人士的传记、Non Fiction；\\
+进阶级：一些电影的原著小说......\\
+【参考文章：《[[http://daily.zhihu.com/story/4494655][在词汇量并不是特别高的情况下如何有效阅读原版书？]]》】\\
+\\
+-----------------------------------------------理论溯源＆拓展---------------------------------------------------\\
+李笑来老师\\
+杜子华《英语成功学》【奶爸推荐语：精练、简单、易懂。把英语学习需注意的问题仔细讲解一遍，强烈建议精读几遍原文。要学好英语至少需要2年时间，长期大量的读听说写。】\\
+外语学习的真实方法及误区分析（漏屋）\\
+《中国人英语自学方法教程》徐火辉\\
+《愤怒的英语》韦伯【奶爸的小组风格完全彻底就是copy他的，无非系统些罢了，还抄的很烂，大家多读此人博客和书，受益无穷啊！】\\
+饱和英语学习法【奶爸评语：这几乎是二三流院校英语专业逆袭的最佳攻略了......】\\
+豆瓣基友团：matrim、[[http://www.douban.com/doulist/3387560/][胡老师英语教室]]、文冤阁大学士......\\
+\\
+卐毒舌批判黑名单卐\\
+李阳疯狂英语\\
+千万法（英语思维）\\
+罗塞塔石碑（图像理论）\\
+新东方（rote memorizing）\\
+[[http://site.douban.com/195274/widget/notes/11672516/note/354391615/][背单词]]\\
+听写......\\
+\\
+附电子书BT网站：\\
+rutracker\\
+thepiratebay\\
+kickass\\
+[[http://btdigg.org/][BTDigg DHT Search Engine: Free Search Engine For
+Free Torrent Content]]\\
+上面的可以下大量的合集，想要下单本书的看这里\\
+[[http://en.bookfi.org/][Electronic library. Download books free.
+Finding boooks]]\\
+据说是互联网最大的图书站，各种格式冷门资源无压力\\
+\\
+最后来张脑图提神：\\
+
+#+BEGIN_HTML
+  <div class="cc">
+#+END_HTML
+
+| [[./奶爸英语之资料篇_files/p10910957.jpg]]      |
+| #+BEGIN_HTML                                    |
+|   <div class="pl" style="text-align:center;">   |
+| #+END_HTML                                      |
+|                                                 |
+| 《把你的英语用起来》作者官方脑图                |
+|                                                 |
+| #+BEGIN_HTML                                    |
+|   </div>                                        |
+| #+END_HTML                                      |

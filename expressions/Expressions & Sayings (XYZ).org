@@ -1,0 +1,389 @@
+*/Expressions & Sayings/*
+
+*~ X Y Z ~*
+
+--------------
+
+#+BEGIN_HTML
+  <div align="center">
+#+END_HTML
+
+*~ X ~*
+
+*X marks the spot*\\
+ A cliché from the earliest days of newspaper photography where the
+scene of the crime would be shown with an X to mark where the deed was
+done. It goes back even further in romantic accounts of such things as
+pirate treasure maps. The expression was being used jokingly by the
+1920s, and now can be found as a formula phrase.
+*~* *Y* *~*
+
+*Yellow press* - /popular newspapers/\\
+ As an early experiment in mass-produced colour-printing to increase
+circulation, the /New York World/ produced in 1895 a cartoon in which
+the main character was a little girl in a yellow frock. One result of
+this was the coinage of the term /yellow press/ to describe popular
+sensational newspapers as a whole.
+*Young Turk* - /young and rebellious or unmanageable member of an
+organisation/\\
+ The original Young Turks were a reformist political movement in the
+Ottoman Empire. It was founded in 1889, brought about constitutional
+changes in 1908 after a revolt, was successful in the Balkan Wars of
+1912-13, but was dissolved at the end of the First World War when the
+Ottoman Empire, having fought in the German cause, was broken up. The
+name reflected both the desire to rejuvenate a declining empire and the
+youthfulness of its founders (young army officers) and some of its
+supporters (students). In modern English use, the implication of
+unreliable extremism owes less to the actual Young Turks than to the
+old-fashioned English view of Turks as rather hot-headed and violent
+people.
+*~* *Z* *~*
+
+*(None known)*
+
+<< [[http://users.tinyonline.co.uk/gswithenbank/sayingsw.htm][W]]
+
+[[http://users.tinyonline.co.uk/gswithenbank/sayindex.htm][Main Index]]
+
+ 
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+--------------
+
+[[http://users.tinyonline.co.uk/gswithenbank/welcome.htm][Home]] ~
+[[http://users.tinyonline.co.uk/gswithenbank/stories.htm][The Stories]]
+~ [[http://users.tinyonline.co.uk/gswithenbank/divert.htm][Diversions]]
+~ [[http://users.tinyonline.co.uk/gswithenbank/links.htm][Links]] ~
+[[http://users.tinyonline.co.uk/gswithenbank/contact.htm][Contact]]
+
+#+BEGIN_HTML
+  <div id="diigo-chrome-installed" style="display: none;">
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="diigolet-notice" class="diigolet notice"
+  style="display: none;">
+#+END_HTML
+
+#+BEGIN_HTML
+  <div>
+#+END_HTML
+
+* *
+Ok, done!
+
+<<close>>
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="diigolet-dlg-sticky" class="diigolet diigoletFN yellow"
+  style="position: absolute; left: 100px; top: 100px; display: none;">
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="diigolet-dlg-sticky-top" class="_dragHandle"
+  style="cursor: move;">
+#+END_HTML
+
+<<diigolet-dlg-sticky-close>><<diigolet-dlg-sticky-color>>
+
+#+BEGIN_HTML
+  <div id="diigolet-dlg-sticky-currentColor" title="change color">
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="diigolet-dlg-sticky-colorPicker">
+#+END_HTML
+
+**********
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+<<diigolet-dlg-sticky-addTab>>
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="diigolet-dlg-sticky-content" class="private">
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="diigolet-dlg-sticky-switcher">
+#+END_HTML
+
+**Private**Group
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div class="FN-content-wrapper private">
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="FN-content-footer">
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="editDone">
+#+END_HTML
+
+**<<FN-private-datetime>>
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="editing">
+#+END_HTML
+
+[[javascript:void(0)][Save]][[javascript:void(0)][Cancel]]
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div class="FN-content-wrapper group">
+#+END_HTML
+
+#+BEGIN_HTML
+  <div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="FN-group-content-nav">
+#+END_HTML
+
++Share to a new group**
+
+#+BEGIN_HTML
+  <div id="FN-group-menu">
+#+END_HTML
+
+-  
+
+   #+BEGIN_HTML
+     <div id="FN-group-share-new">
+   #+END_HTML
+
+   #+BEGIN_HTML
+     </div>
+   #+END_HTML
+
+   +Share to a new group
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="FN-post-form">
+#+END_HTML
+
+#+BEGIN_HTML
+  <div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div>
+#+END_HTML
+
+Post
+[[javascript:void(0)][Cancel]]
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="FN-group-content">
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="FN-group-content-container">
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="FN-group-content-postform">
+#+END_HTML
+
+#+BEGIN_HTML
+  <div class="post-action">
+#+END_HTML
+
+Post
+[[javascript:void(0)][Cancel]]
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="diigolet-csm" class="yellow"
+  style="position: absolute; display: none;">
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="diigolet-csm-research-mode">
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="diigolet-csm-highlight-wrapper" class="csm-btn">
+#+END_HTML
+
+[[javascript:void(0);][]]
+
+#+BEGIN_HTML
+  <div class="diigolet-csm-color small hidden">
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="diigolet-csm-highlightAndComment-wrapper" class="csm-btn">
+#+END_HTML
+
+[[javascript:void(0);][]]
+
+#+BEGIN_HTML
+  <div class="diigolet-csm-color small hidden">
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+[[javascript:void(0);][]]
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="diigo-image-clipper" style="position: absolute;">
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="diigo-image-menu">
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="diigo-logo">
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="diigo-save-and-tag" class="diigo-action"
+  title="Tag as a stand-alone item">
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  <div id="diigo-attach" class="diigo-action"
+  title="Attach it to the page URL">
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
