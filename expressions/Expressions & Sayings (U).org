@@ -1,6 +1,6 @@
-*/Expressions & Sayings/*
+* /Expressions & Sayings/
 
-*~ U ~*
+* ~ U ~
 
 --------------
 
@@ -8,45 +8,45 @@
   <div align="center">
 #+END_HTML
 
-| *Ugly duckling* ** - /somebody or something unpromising that becomes successful or admirable/\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-|  The title of a short story by the Danish writer Hans Christian Anderson (1805-75) which first appeared in English in 1847. In it the duckling, spurned and embarrassed because of its oddity when compared with its peers, is in fact a cygnet that grows into a beautiful swan.                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| *Unacceptable face of* ** - // /unpleasant aspect of (something generally admirable)/\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|  In May 1973 the then British Prime Minister, Edward Heath, commenting in the House of Commons about the business practices of a company which was alleged in the High Court to run a company-owned mansion and to have made payments into an offshore tax haven, said 'It is an unpleasant and unacceptable face of capitalism'. Coming from a politician whose party was generally sympathetic to capitalism, this statement was much commented on and remains much quoted both in its original form and with variations.                                                                                                                                                                                                                             |
-| *Uncle Sam* - /personification of the government (or citizens) of the USA/\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|  The popular story is that the original Uncle Sam was Samuel Wilson (1766-1854), variously referred to as a store-owner, meat-packer or government inspector, who was responsible for supplies of meat to the US army and accordingly stamped 'US' on the sides of the packing cases in which it was shipped. Because the abbreviation was unfamiliar to soldiers so soon after the country had won its independence from Britain, they assumed these letters stood for Uncle Sam, Wilson's alleged nickname. The starting-point for this story is that the first printed reference to the US government as /Uncle Sam/ is found in the newspaper of the city of Troy in New York State - the /Troy News/ of September 7, 1813- where Wilson lived.\\   |
-|  ...However, it is unlikely that US troops would have known who had supplied (or packed or inspected) their meat or what his nickname was (if indeed he had one). The more plausible origin of /Uncle Sam/ is therefore less colourful: it is simply a jocular expansion and personification of US /Am/erica from the initials widely seen on the sides of government wagons at the time.                                                                                                                                                                                                                                                                                                                                                               |
-| *Uncle Tom* - /black person who is thought to have a deferential attitude towards white people/\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|  A derogatory reference to the central character of Harriet Beecher Stowe's famous novel /Uncle Tom's Cabin/ (1852) who is a faithful and dignified old black slave. His attitudes towards white people were regarded as servile by later black activists for whom the establishment of equal rights was incompatible with 'Uncle Tomism'. Others have argued that the book originally helped the US public towards a better understanding of the iniquities of slavery.                                                                                                                                                                                                                                                                                |
-| *Under the aegis of* - /under the sponsorship or protection of/\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|  The original /aegis/ was the shield of Zeus, king of the gods in Greek mythology. It took its name from the Greek word for goatskin: as a child, Zeus had been suckled by a goat, Amalthea, and as a man, he carried a shield covered with its skin. The aegis therefore symbolised divine protection - a far cry from its usually humdrum modern use.                                                                                                                                                                                                                                                                                                                                                                                                 |
-| *Under the auspices of* - /with the help or protection of/\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|  /Auspices/ is made up of two Latin words: /avis/, 'a bird', and /specere/, 'to observe'. In ancient Rome, it was customary to consult an augur or soothsayer before making important decisions. One of these augurs was the Auspex, literally the bird-watcher, a priest who observed the flight of birds as an omen. If his /auspice/, i.e. observation, was favourable, he would advise that the signs indicated divine approval for a course of action. The modern expression which comes from this carries no such supernatural implication.\\                                                                                                                                                                                                     |
-|  ...The expressions augur well and augur ill, meaning a good or bad sign for the future, have the same origin.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| *Under the weather* - /slightly unwell/\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|  Originally, suffering from a minor or temporary complaint of the sort that may have been caused by bad weather, as cold, damp or fog may give one a cough, ache, etc. It is now sometimes a euphemism for having a hangover.\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-|  ...An alternative explanation says that passengers aboard ships became seasick most frequently during times of rough seas and bad weather. Seasickness is caused by the constant rocking motion of the ship. Sick passengers go below deck, which provides shelter from the weather, but just as importantly, the sway is not as great below deck, low on the ship - or /under the weather/.                                                                                                                                                                                                                                                                                                                                                           |
-| *Unkindest cut of all* - /most hurtful action or words/\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|  A quotation from Mark Antony's famous funeral speech in /Julius Caesar/, III, 2, line 183. Speaking over Caesar's body, he describes to the citizens of Rome how Caesar was murdered and points out the holes made in his mantle by the daggers of his assassins. The 'unkindest cut' - he means 'cut' literally - is that made by Brutus, whom Caesar trusted.                                                                                                                                                                                                                                                                                                                                                                                        |
-| *Until the cows come home* - // /for an extremely long time/\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|  Cows walk very slowly from the fields to the milking sheds unless someone hurries them along.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| *Unvarnished truth*\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|  Something made of wood that is unvarnished is still rough, without embellishments, and that is the image behind this expression. The first recorded use in any sense of /unvarnished/ is Shakespeare's 'I will a round, unvarnish'd tale deliver,/Of my whole course of love (/Othello/, I.iii), and we probably owe our use of the word to mean 'plain, direct', to this. The linking of truth to unvarnished was established by the 19th century.                                                                                                                                                                                                                                                                                                    |
-| *Up a gum-tree* ** - /in a predicament/\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|  Thought to be from the hunting of the opossum, which took refuge in trees and, in addition to being cornered there, would have difficulties of movement if they were of the gum-exuding variety. The phrase, however, could equally have come from the obvious human problems of climbing gum-trees, which are common in the USA where the phrase originated.                                                                                                                                                                                                                                                                                                                                                                                          |
-| *Up one's sleeve* - /held (secretly) in reserve/\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|  From conjuring, in which the performer may use his or her sleeve for concealment, though the mystery is often compounded by the conjurer showing that there is 'nothing up my sleeve'. A longer expression have a few tricks up one's sleeve (have some surprises in store) is from the same source.                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| *Up the pole* - /out of one's senses, mad; in difficulty/\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|  A /pole/ is another term for a ship's mast and, more especially, for that part of the mast which is above the rigging. It is hard to imagine a more precarious place to be; one would have to have taken leave of one's senses to shin up there at all as a single wrong move might well prove disastrous. One can be /driven/ or /sent up the pole/, that is enraged by someone or something. One can even find oneself /up the wrong pole/, meaning that one has totally the wrong idea about something.                                                                                                                                                                                                                                             |
-| *Up the spout* - /ruined; lost/\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|  In a pawnshop, resort to which obviously implies financial trouble, the lift for sending deposited articles up for storage used to be called the /spout/. If anything - or, by transference, anybody - is /up the spout/, there are difficulties.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| *Up to scratch*\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|  See [[http://users.tinyonline.co.uk/gswithenbank/sayingss.htm#Start%20from%20scratch][Start from scratch]].                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| *Up to the ears*\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|  See [[http://users.tinyonline.co.uk/gswithenbank/sayingsh.htm#Head%20over%20heels][Head over heels]].                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| *Up to the mark* - /up to standard/\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|  The starting-line for a race used to be called the /mark/, perhaps a line scratched on the ground, which is why a starter still orders runners to 'take your marks'. A person who comes /up the mark/ is therefore fit and ready. /Mark/ is also, however, a word for criterion or sign of quality (as in hallmark) and the expression is probably literal rather than figurative.                                                                                                                                                                                                                                                                                                                                                                     |
-| *Upset the apple-cart* ** - /cause confusion in plans, circumstances, etc./\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|  Despite suggestions that /apple-cart/ was 18th century slang for the human body it is more likely that the phrase was originally American, referring simply to a commonplace rural accident or the upsetting of a vendor's stall by traffic in a crowded market.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+* Ugly duckling* * - /somebody or something unpromising that becomes successful or admirable/\\
+ The title of a short story by the Danish writer Hans Christian Anderson (1805-75) which first appeared in English in 1847. In it the duckling, spurned and embarrassed because of its oddity when compared with its peers, is in fact a cygnet that grows into a beautiful swan.
+* Unacceptable face of* * - // /unpleasant aspect of (something generally admirable)/\\
+ In May 1973 the then British Prime Minister, Edward Heath, commenting in the House of Commons about the business practices of a company which was alleged in the High Court to run a company-owned mansion and to have made payments into an offshore tax haven, said 'It is an unpleasant and unacceptable face of capitalism'. Coming from a politician whose party was generally sympathetic to capitalism, this statement was much commented on and remains much quoted both in its original form and with variations.
+* Uncle Sam - /personification of the government (or citizens) of the USA/\\
+ The popular story is that the original Uncle Sam was Samuel Wilson (1766-1854), variously referred to as a store-owner, meat-packer or government inspector, who was responsible for supplies of meat to the US army and accordingly stamped 'US' on the sides of the packing cases in which it was shipped. Because the abbreviation was unfamiliar to soldiers so soon after the country had won its independence from Britain, they assumed these letters stood for Uncle Sam, Wilson's alleged nickname. The starting-point for this story is that the first printed reference to the US government as /Uncle Sam/ is found in the newspaper of the city of Troy in New York State - the /Troy News/ of September 7, 1813- where Wilson lived.\\
+ ...However, it is unlikely that US troops would have known who had supplied (or packed or inspected) their meat or what his nickname was (if indeed he had one). The more plausible origin of /Uncle Sam/ is therefore less colourful: it is simply a jocular expansion and personification of US /Am/erica from the initials widely seen on the sides of government wagons at the time.
+* Uncle Tom - /black person who is thought to have a deferential attitude towards white people/\\
+ A derogatory reference to the central character of Harriet Beecher Stowe's famous novel /Uncle Tom's Cabin/ (1852) who is a faithful and dignified old black slave. His attitudes towards white people were regarded as servile by later black activists for whom the establishment of equal rights was incompatible with 'Uncle Tomism'. Others have argued that the book originally helped the US public towards a better understanding of the iniquities of slavery.
+* Under the aegis of - /under the sponsorship or protection of/\\
+ The original /aegis/ was the shield of Zeus, king of the gods in Greek mythology. It took its name from the Greek word for goatskin: as a child, Zeus had been suckled by a goat, Amalthea, and as a man, he carried a shield covered with its skin. The aegis therefore symbolised divine protection - a far cry from its usually humdrum modern use.
+* Under the auspices of - /with the help or protection of/\\
+ /Auspices/ is made up of two Latin words: /avis/, 'a bird', and /specere/, 'to observe'. In ancient Rome, it was customary to consult an augur or soothsayer before making important decisions. One of these augurs was the Auspex, literally the bird-watcher, a priest who observed the flight of birds as an omen. If his /auspice/, i.e. observation, was favourable, he would advise that the signs indicated divine approval for a course of action. The modern expression which comes from this carries no such supernatural implication.\\
+ ...The expressions augur well and augur ill, meaning a good or bad sign for the future, have the same origin.
+* Under the weather - /slightly unwell/\\
+ Originally, suffering from a minor or temporary complaint of the sort that may have been caused by bad weather, as cold, damp or fog may give one a cough, ache, etc. It is now sometimes a euphemism for having a hangover.\\
+ ...An alternative explanation says that passengers aboard ships became seasick most frequently during times of rough seas and bad weather. Seasickness is caused by the constant rocking motion of the ship. Sick passengers go below deck, which provides shelter from the weather, but just as importantly, the sway is not as great below deck, low on the ship - or /under the weather/.
+* Unkindest cut of all - /most hurtful action or words/\\
+ A quotation from Mark Antony's famous funeral speech in /Julius Caesar/, III, 2, line 183. Speaking over Caesar's body, he describes to the citizens of Rome how Caesar was murdered and points out the holes made in his mantle by the daggers of his assassins. The 'unkindest cut' - he means 'cut' literally - is that made by Brutus, whom Caesar trusted.
+* Until the cows come home - // /for an extremely long time/\\
+ Cows walk very slowly from the fields to the milking sheds unless someone hurries them along.
+* Unvarnished truth\\
+ Something made of wood that is unvarnished is still rough, without embellishments, and that is the image behind this expression. The first recorded use in any sense of /unvarnished/ is Shakespeare's 'I will a round, unvarnish'd tale deliver,/Of my whole course of love (/Othello/, I.iii), and we probably owe our use of the word to mean 'plain, direct', to this. The linking of truth to unvarnished was established by the 19th century.
+* Up a gum-tree* * - /in a predicament/\\
+ Thought to be from the hunting of the opossum, which took refuge in trees and, in addition to being cornered there, would have difficulties of movement if they were of the gum-exuding variety. The phrase, however, could equally have come from the obvious human problems of climbing gum-trees, which are common in the USA where the phrase originated.
+* Up one's sleeve - /held (secretly) in reserve/\\
+ From conjuring, in which the performer may use his or her sleeve for concealment, though the mystery is often compounded by the conjurer showing that there is 'nothing up my sleeve'. A longer expression have a few tricks up one's sleeve (have some surprises in store) is from the same source.
+* Up the pole - /out of one's senses, mad; in difficulty/\\
+ A /pole/ is another term for a ship's mast and, more especially, for that part of the mast which is above the rigging. It is hard to imagine a more precarious place to be; one would have to have taken leave of one's senses to shin up there at all as a single wrong move might well prove disastrous. One can be /driven/ or /sent up the pole/, that is enraged by someone or something. One can even find oneself /up the wrong pole/, meaning that one has totally the wrong idea about something.
+* Up the spout - /ruined; lost/\\
+ In a pawnshop, resort to which obviously implies financial trouble, the lift for sending deposited articles up for storage used to be called the /spout/. If anything - or, by transference, anybody - is /up the spout/, there are difficulties.
+* Up to scratch\\
+ See [[http://users.tinyonline.co.uk/gswithenbank/sayingss.htm#Start%20from%20scratch][Start from scratch]].
+* Up to the ears\\
+ See [[http://users.tinyonline.co.uk/gswithenbank/sayingsh.htm#Head%20over%20heels][Head over heels]].
+* Up to the mark - /up to standard/\\
+ The starting-line for a race used to be called the /mark/, perhaps a line scratched on the ground, which is why a starter still orders runners to 'take your marks'. A person who comes /up the mark/ is therefore fit and ready. /Mark/ is also, however, a word for criterion or sign of quality (as in hallmark) and the expression is probably literal rather than figurative.
+* Upset the apple-cart* * - /cause confusion in plans, circumstances, etc./\\
+ Despite suggestions that /apple-cart/ was 18th century slang for the human body it is more likely that the phrase was originally American, referring simply to a commonplace rural accident or the upsetting of a vendor's stall by traffic in a crowded market.
 
 #+BEGIN_HTML
   </div>
@@ -56,7 +56,7 @@
   <div align="center">
 #+END_HTML
 
-| << [[http://users.tinyonline.co.uk/gswithenbank/sayingst.htm][T]]   | [[http://users.tinyonline.co.uk/gswithenbank/sayindex.htm][Main Index]]   | [[http://users.tinyonline.co.uk/gswithenbank/sayingsv.htm][V]] >>   |
+<< [[http://users.tinyonline.co.uk/gswithenbank/sayingst.htm][T]] [[http://users.tinyonline.co.uk/gswithenbank/sayindex.htm][Main Index]]   | [[http://users.tinyonline.co.uk/gswithenbank/sayingsv.htm][V]] >>   |
 
 #+BEGIN_HTML
   </div>
@@ -69,332 +69,3 @@
 ~ [[http://users.tinyonline.co.uk/gswithenbank/divert.htm][Diversions]]
 ~ [[http://users.tinyonline.co.uk/gswithenbank/links.htm][Links]] ~
 [[http://users.tinyonline.co.uk/gswithenbank/contact.htm][Contact]]
-
-#+BEGIN_HTML
-  <div id="diigolet-notice" class="diigolet notice"
-  style="display: none;">
-#+END_HTML
-
-#+BEGIN_HTML
-  <div>
-#+END_HTML
-
-* *
-Ok, done!
-
-<<close>>
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="diigo-chrome-installed" style="display: none;">
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="diigolet-dlg-sticky" class="diigolet diigoletFN yellow"
-  style="position: absolute; left: 100px; top: 100px; display: none;">
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="diigolet-dlg-sticky-top" class="_dragHandle"
-  style="cursor: move;">
-#+END_HTML
-
-<<diigolet-dlg-sticky-close>><<diigolet-dlg-sticky-color>>
-
-#+BEGIN_HTML
-  <div id="diigolet-dlg-sticky-currentColor" title="change color">
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="diigolet-dlg-sticky-colorPicker">
-#+END_HTML
-
-**********
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-<<diigolet-dlg-sticky-addTab>>
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="diigolet-dlg-sticky-content" class="private">
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="diigolet-dlg-sticky-switcher">
-#+END_HTML
-
-**Private**Group
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div class="FN-content-wrapper private">
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="FN-content-footer">
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="editDone">
-#+END_HTML
-
-**<<FN-private-datetime>>
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="editing">
-#+END_HTML
-
-[[javascript:void(0)][Save]][[javascript:void(0)][Cancel]]
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div class="FN-content-wrapper group">
-#+END_HTML
-
-#+BEGIN_HTML
-  <div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="FN-group-content-nav">
-#+END_HTML
-
-+Share to a new group**
-
-#+BEGIN_HTML
-  <div id="FN-group-menu">
-#+END_HTML
-
--  
-
-   #+BEGIN_HTML
-     <div id="FN-group-share-new">
-   #+END_HTML
-
-   #+BEGIN_HTML
-     </div>
-   #+END_HTML
-
-   +Share to a new group
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="FN-post-form">
-#+END_HTML
-
-#+BEGIN_HTML
-  <div>
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div>
-#+END_HTML
-
-Post
-[[javascript:void(0)][Cancel]]
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="FN-group-content">
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="FN-group-content-container">
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="FN-group-content-postform">
-#+END_HTML
-
-#+BEGIN_HTML
-  <div class="post-action">
-#+END_HTML
-
-Post
-[[javascript:void(0)][Cancel]]
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="diigolet-csm" class="yellow"
-  style="position: absolute; display: none;">
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="diigolet-csm-research-mode">
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="diigolet-csm-highlight-wrapper" class="csm-btn">
-#+END_HTML
-
-[[javascript:void(0);][]]
-
-#+BEGIN_HTML
-  <div class="diigolet-csm-color small hidden">
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="diigolet-csm-highlightAndComment-wrapper" class="csm-btn">
-#+END_HTML
-
-[[javascript:void(0);][]]
-
-#+BEGIN_HTML
-  <div class="diigolet-csm-color small hidden">
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-[[javascript:void(0);][]]
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="diigo-image-clipper" style="position: absolute;">
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="diigo-image-menu">
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="diigo-logo">
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="diigo-save-and-tag" class="diigo-action"
-  title="Tag as a stand-alone item">
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="diigo-attach" class="diigo-action"
-  title="Attach it to the page URL">
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML

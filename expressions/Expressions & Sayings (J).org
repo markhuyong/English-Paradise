@@ -1,37 +1,32 @@
-*/Expressions & Sayings/*
+* /Expressions & Sayings/
 
-*~ J ~*
+* ~ J ~
 
 --------------
-
-#+BEGIN_HTML
-  <div align="center">
-#+END_HTML
-
-| *Jack of all trades*\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|  Jack is a familiar, affectionate or diminutive version of John, perhaps the commonest British name, and occurs in numerous expressions to mean an ordinary man, fellow, chap, etc. Thus /jack of all trades/ ** (person who does a variety of work), every man jack (everyone without exception), jack-in-the-box and cheap jack (originally Cheap Jack, man who travels about offering bargains for sale, now usually applied to (person who sells goods which are) cheap, shoddy or inferior). Jack is also used as a word for a labouring man (steeplejack) and to express masculinity: a jackass ** (fool) is originally a male ass. It is a nickname or familiar term of address in Jack Frost, I'm all right Jack, and Jack Tar, a rather old-fashioned term for a sailor in which /Tar/ is short for /tarpaulin/ (canvas covered with tar) in reference to the extensive use of tar by sailors in times past. A jack is also something taking the place of a man to save labour, as in car-jack, etc.   |
-| *Jam today* ** - // /immediate gratification/\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|  Said of something that cannot be; also jam tomorrow, a meaningless promise of better things to come. From Lewis Carroll's /Through the Looking-Glass/ (1872): 'The rule is, jam tomorrow and jam yesterday - but never jam today'. The words parody what is said to children when denying them jam as a treat: 'You can't have jam today, you had it yesterday' or 'you can have it tomorrow'. The nonsensical point is that tomorrow always becomes today so that the 'rule' or promise is meaningless. In the original, the 'rule' is one of the conditions offered to Alice by the White Queen when discussing her employment as a ladies' maid.                                                                                                                                                                                                                                                                                                                                                            |
-| *Janus-like* -/two-faced/\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-|  Janus was a Roman god of great antiquity; his cult may have been established by Romulus himself. Among his many functions, he was the god of doorways and communication. He was represented as having two faces, one on the front and one on the back of his head, allowing him to see the interior as well as the exterior of buildings and all comings and goings. January derives from his name because he also presided over the entrance into a new year.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| *Jekyll and Hyde* - /showing contradictory character traits, as if having a split personality/\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-|  In /The Strange Case of Dr Jekyll and Mr Hyde/ (1886) R. L. Stevenson tells the story of a doctor who discovers a drug which enables him to create for himself a separate personality expressing all his own evil instincts. This is Mr Hyde, repulsive and purely wicked, whose personality Dr Jekyll assumes from time to time so as to be able to enjoy his baser impulses. However, Hyde becomes more powerful, the drug loses its capacity to restore Jekyll entirely to his original form, he finds himself changing involuntarily, and he finally takes his own life.                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| *Jerry-built* - /insubstantially constructed, using bad materials, etc./\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|  Despite the likelihood that this comes from someone's name, no actual Jerry has ever been identified, and claims that there was a 19th century building firm of this name on Merseyside have not been verified. Various nautical expressions include an unexplained use of 'jury' to mean 'temporary': a jury-mast, for instance, was a temporary replacement for a mast lost in a storm. As a result of this, 'jury' passed into general use as a synonym for 'makeshift'. Perhaps this became mispronounced as /jerry/. There remains the ingenious but not implausible suggestion that /jerry/ was builders' slang, from 'Jericho', the walls of which came tumbling down. (For the full story of how God caused this with the sound of trumpets and shouting see /Joshua/, 6: 1-21.)                                                                                                                                                                                                                       |
-| *Job's comforter*\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|  See [[http://users.tinyonline.co.uk/gswithenbank/sayingsp.htm#Patience%20of%20Job][Patience of Job]].                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| *John Bull* - /personification of the English nation/\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-|  John Arbuthnot's /History of John Bull/ (1712), a collection of pamphlets advocating an end to the war with France, introduced the allegorical characters of John Bull (representing England), Nicholas Frog (the Dutch), Lewis Baboon (the Bourbon King Louis XIV of France) and others. John Bull then became better known as a cartoon character, originally as a rather stupid figure weighed down by taxation but later as a portly and prosperous one. In the middle and late 19th century the /Punch/ cartoonists John Leech and Sir John Tenniel developed the now familiar image of a jovial but determined man wearing a union-jack waistcoat and accompanied by a [[http://users.tinyonline.co.uk/gswithenbank/sayingsb.htm#Bulldog%20breed][bulldog]], the latter no doubt chosen because of its master's surname and its own qualities of stubborn fearlessness.\\                                                                                                                                |
-|  ...Both /John/ and /Bull/ are common English names, and Arbuthnot originally chose the latter because his satiric purposes required the name of an appropriate animal, but it is interesting to note that there was an actual and famous John Bull (1562-1628) who is sometimes said to be the composer of the British national anthem.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| *John Doe* - /stand-in for the name of an unidentified person/\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-|  This dates back to the reign of King Edward III of England and a legal debate over the Acts of Ejectment. This involved a hypothetical landowner, referred to as /John Doe/, who leased land to another man, the equally fictitious /Richard Doe/, who then took the land as his own and 'ejected' or 'evicted' poor John Doe.\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|  ...These names had no particular significance, aside from /Doe/ (a female deer) and /Roe/ (small species of deer found in Europe) being commonly known pronouns at that time. But the debate became a hallmark of legal theory, and the name /John Doe/ in particular gained wide currency in both the legal world and general usage as a generic stand-in for any unnamed person. /John Doe/ and /Richard Doe/ are, to this day, mandated in legal procedure as the first and second names given to unknown defendants in a case (followed, if necessary, by /John Stiles/ and /Richard Stiles/).                                                                                                                                                                                                                                                                                                                                                                                                             |
-| *Journey's end*\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|  'Journeys' is a plural noun in 'Journeys end in lovers meeting', a line from the song 'O mistress mine' in /Twelfth Night/ (II, 3, line 42). /Journey's End/ was the bitter adaptation of the quotation as the title of R. C. Sherriff's lastingly popular play (1928) about young men under stress in the trenches of the First World War; it ends with an explosion in mid-battle.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| *Jump on to the bandwagon* - /support a plan or cause for personal advantage/\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|  First used in American circus slang for the large, high and ornamented wagon which had seats for musicians and was used in circus parades advertising the circus's arrival. It was also often used as stationary seating for the band during performances. The word then came to be applied figuratively to a politician's election campaign, presumably because of its likeness to a circus. From that developed the idea of /jumping on to the bandwagon/, joining an apparently winning side, popular tide of opinion, fashion, etc. The term still has a touch of show business about it: there is a sense that a bandwagon may have more style than substance and that those who join one do so for personal glorification or because they lack independent judgement or ideas.                                                                                                                                                                                                                           |
-| *Jump the gun* - /act before the agreed or permitted time/\\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|  From athletics: the /gun/ is the starting-gun and /jump/ is used in the sense of 'act to gain an advantage over', as in queue-jumping.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+* Jack of all trades\\
+ Jack is a familiar, affectionate or diminutive version of John, perhaps the commonest British name, and occurs in numerous expressions to mean an ordinary man, fellow, chap, etc. Thus /jack of all trades/ * * (person who does a variety of work), every man jack (everyone without exception), jack-in-the-box and cheap jack (originally Cheap Jack, man who travels about offering bargains for sale, now usually applied to (person who sells goods which are) cheap, shoddy or inferior). Jack is also used as a word for a labouring man (steeplejack) and to express masculinity: a jackass * (fool) is originally a male ass. It is a nickname or familiar term of address in Jack Frost, I'm all right Jack, and Jack Tar, a rather old-fashioned term for a sailor in which /Tar/ is short for /tarpaulin/ (canvas covered with tar) in reference to the extensive use of tar by sailors in times past. A jack is also something taking the place of a man to save labour, as in car-jack, etc.
+* Jam today* * - // /immediate gratification/\\
+ Said of something that cannot be; also jam tomorrow, a meaningless promise of better things to come. From Lewis Carroll's /Through the Looking-Glass/ (1872): 'The rule is, jam tomorrow and jam yesterday - but never jam today'. The words parody what is said to children when denying them jam as a treat: 'You can't have jam today, you had it yesterday' or 'you can have it tomorrow'. The nonsensical point is that tomorrow always becomes today so that the 'rule' or promise is meaningless. In the original, the 'rule' is one of the conditions offered to Alice by the White Queen when discussing her employment as a ladies' maid.
+* Janus-like -/two-faced/\\
+ Janus was a Roman god of great antiquity; his cult may have been established by Romulus himself. Among his many functions, he was the god of doorways and communication. He was represented as having two faces, one on the front and one on the back of his head, allowing him to see the interior as well as the exterior of buildings and all comings and goings. January derives from his name because he also presided over the entrance into a new year.
+* Jekyll and Hyde - /showing contradictory character traits, as if having a split personality/\\
+ In /The Strange Case of Dr Jekyll and Mr Hyde/ (1886) R. L. Stevenson tells the story of a doctor who discovers a drug which enables him to create for himself a separate personality expressing all his own evil instincts. This is Mr Hyde, repulsive and purely wicked, whose personality Dr Jekyll assumes from time to time so as to be able to enjoy his baser impulses. However, Hyde becomes more powerful, the drug loses its capacity to restore Jekyll entirely to his original form, he finds himself changing involuntarily, and he finally takes his own life.
+* Jerry-built - /insubstantially constructed, using bad materials, etc./\\
+ Despite the likelihood that this comes from someone's name, no actual Jerry has ever been identified, and claims that there was a 19th century building firm of this name on Merseyside have not been verified. Various nautical expressions include an unexplained use of 'jury' to mean 'temporary': a jury-mast, for instance, was a temporary replacement for a mast lost in a storm. As a result of this, 'jury' passed into general use as a synonym for 'makeshift'. Perhaps this became mispronounced as /jerry/. There remains the ingenious but not implausible suggestion that /jerry/ was builders' slang, from 'Jericho', the walls of which came tumbling down. (For the full story of how God caused this with the sound of trumpets and shouting see /Joshua/, 6: 1-21.)
+* Job's comforter\\
+ See [[http://users.tinyonline.co.uk/gswithenbank/sayingsp.htm#Patience%20of%20Job][Patience of Job]].
+* John Bull - /personification of the English nation/\\
+ John Arbuthnot's /History of John Bull/ (1712), a collection of pamphlets advocating an end to the war with France, introduced the allegorical characters of John Bull (representing England), Nicholas Frog (the Dutch), Lewis Baboon (the Bourbon King Louis XIV of France) and others. John Bull then became better known as a cartoon character, originally as a rather stupid figure weighed down by taxation but later as a portly and prosperous one. In the middle and late 19th century the /Punch/ cartoonists John Leech and Sir John Tenniel developed the now familiar image of a jovial but determined man wearing a union-jack waistcoat and accompanied by a [[http://users.tinyonline.co.uk/gswithenbank/sayingsb.htm#Bulldog%20breed][bulldog]], the latter no doubt chosen because of its master's surname and its own qualities of stubborn fearlessness.\\
+ ...Both /John/ and /Bull/ are common English names, and Arbuthnot originally chose the latter because his satiric purposes required the name of an appropriate animal, but it is interesting to note that there was an actual and famous John Bull (1562-1628) who is sometimes said to be the composer of the British national anthem.
+* John Doe - /stand-in for the name of an unidentified person/\\
+ This dates back to the reign of King Edward III of England and a legal debate over the Acts of Ejectment. This involved a hypothetical landowner, referred to as /John Doe/, who leased land to another man, the equally fictitious /Richard Doe/, who then took the land as his own and 'ejected' or 'evicted' poor John Doe.\\
+ ...These names had no particular significance, aside from /Doe/ (a female deer) and /Roe/ (small species of deer found in Europe) being commonly known pronouns at that time. But the debate became a hallmark of legal theory, and the name /John Doe/ in particular gained wide currency in both the legal world and general usage as a generic stand-in for any unnamed person. /John Doe/ and /Richard Doe/ are, to this day, mandated in legal procedure as the first and second names given to unknown defendants in a case (followed, if necessary, by /John Stiles/ and /Richard Stiles/).
+* Journey's end\\
+ 'Journeys' is a plural noun in 'Journeys end in lovers meeting', a line from the song 'O mistress mine' in /Twelfth Night/ (II, 3, line 42). /Journey's End/ was the bitter adaptation of the quotation as the title of R. C. Sherriff's lastingly popular play (1928) about young men under stress in the trenches of the First World War; it ends with an explosion in mid-battle.
+* Jump on to the bandwagon - /support a plan or cause for personal advantage/\\
+ First used in American circus slang for the large, high and ornamented wagon which had seats for musicians and was used in circus parades advertising the circus's arrival. It was also often used as stationary seating for the band during performances. The word then came to be applied figuratively to a politician's election campaign, presumably because of its likeness to a circus. From that developed the idea of /jumping on to the bandwagon/, joining an apparently winning side, popular tide of opinion, fashion, etc. The term still has a touch of show business about it: there is a sense that a bandwagon may have more style than substance and that those who join one do so for personal glorification or because they lack independent judgement or ideas.
+* Jump the gun - /act before the agreed or permitted time/\\
+ From athletics: the /gun/ is the starting-gun and /jump/ is used in the sense of 'act to gain an advantage over', as in queue-jumping.
 
 #+BEGIN_HTML
   </div>
@@ -41,7 +36,7 @@
   <div align="center">
 #+END_HTML
 
-| << [[http://users.tinyonline.co.uk/gswithenbank/sayingsi.htm][I]]   | [[http://users.tinyonline.co.uk/gswithenbank/sayindex.htm][Main Index]]   | [[http://users.tinyonline.co.uk/gswithenbank/sayingsk.htm][K]] >>   |
+<< [[http://users.tinyonline.co.uk/gswithenbank/sayingsi.htm][I]] [[http://users.tinyonline.co.uk/gswithenbank/sayindex.htm][Main Index]]   | [[http://users.tinyonline.co.uk/gswithenbank/sayingsk.htm][K]] >>   |
 
 #+BEGIN_HTML
   </div>
@@ -54,332 +49,3 @@
 ~ [[http://users.tinyonline.co.uk/gswithenbank/divert.htm][Diversions]]
 ~ [[http://users.tinyonline.co.uk/gswithenbank/links.htm][Links]] ~
 [[http://users.tinyonline.co.uk/gswithenbank/contact.htm][Contact]]
-
-#+BEGIN_HTML
-  <div id="diigo-chrome-installed" style="display: none;">
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="diigolet-notice" class="diigolet notice"
-  style="display: none;">
-#+END_HTML
-
-#+BEGIN_HTML
-  <div>
-#+END_HTML
-
-* *
-Ok, done!
-
-<<close>>
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="diigolet-dlg-sticky" class="diigolet diigoletFN yellow"
-  style="position: absolute; left: 100px; top: 100px; display: none;">
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="diigolet-dlg-sticky-top" class="_dragHandle"
-  style="cursor: move;">
-#+END_HTML
-
-<<diigolet-dlg-sticky-close>><<diigolet-dlg-sticky-color>>
-
-#+BEGIN_HTML
-  <div id="diigolet-dlg-sticky-currentColor" title="change color">
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="diigolet-dlg-sticky-colorPicker">
-#+END_HTML
-
-**********
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-<<diigolet-dlg-sticky-addTab>>
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="diigolet-dlg-sticky-content" class="private">
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="diigolet-dlg-sticky-switcher">
-#+END_HTML
-
-**Private**Group
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div class="FN-content-wrapper private">
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="FN-content-footer">
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="editDone">
-#+END_HTML
-
-**<<FN-private-datetime>>
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="editing">
-#+END_HTML
-
-[[javascript:void(0)][Save]][[javascript:void(0)][Cancel]]
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div class="FN-content-wrapper group">
-#+END_HTML
-
-#+BEGIN_HTML
-  <div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="FN-group-content-nav">
-#+END_HTML
-
-+Share to a new group**
-
-#+BEGIN_HTML
-  <div id="FN-group-menu">
-#+END_HTML
-
--  
-
-   #+BEGIN_HTML
-     <div id="FN-group-share-new">
-   #+END_HTML
-
-   #+BEGIN_HTML
-     </div>
-   #+END_HTML
-
-   +Share to a new group
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="FN-post-form">
-#+END_HTML
-
-#+BEGIN_HTML
-  <div>
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div>
-#+END_HTML
-
-Post
-[[javascript:void(0)][Cancel]]
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="FN-group-content">
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="FN-group-content-container">
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="FN-group-content-postform">
-#+END_HTML
-
-#+BEGIN_HTML
-  <div class="post-action">
-#+END_HTML
-
-Post
-[[javascript:void(0)][Cancel]]
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="diigolet-csm" class="yellow"
-  style="position: absolute; display: none;">
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="diigolet-csm-research-mode">
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="diigolet-csm-highlight-wrapper" class="csm-btn">
-#+END_HTML
-
-[[javascript:void(0);][]]
-
-#+BEGIN_HTML
-  <div class="diigolet-csm-color small hidden">
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="diigolet-csm-highlightAndComment-wrapper" class="csm-btn">
-#+END_HTML
-
-[[javascript:void(0);][]]
-
-#+BEGIN_HTML
-  <div class="diigolet-csm-color small hidden">
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-[[javascript:void(0);][]]
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="diigo-image-clipper" style="position: absolute;">
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="diigo-image-menu">
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="diigo-logo">
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="diigo-save-and-tag" class="diigo-action"
-  title="Tag as a stand-alone item">
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  <div id="diigo-attach" class="diigo-action"
-  title="Attach it to the page URL">
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
